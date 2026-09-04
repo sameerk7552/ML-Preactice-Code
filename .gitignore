@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+node_modules/
